@@ -1,4 +1,4 @@
-# Amazon Python Scrapy 🦂
+# Amazon Python Scrapy 🕸️
 Python Scrapy spiders that scrape product data and reviews from [Amazon.com](https://www.amazon.com/). 
 
 This Scrapy project contains 3 seperate spiders:
